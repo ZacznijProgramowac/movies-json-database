@@ -1,7 +1,7 @@
 # Prosta nierelacyjna baza danych w pliku json
 
 # Uruchomienie
-- pobierze i uruchom `npn install`
+- pobierz, rozpakuj i uruchom `npm install`
 - wykonaj polecenie `npm start`
 - serwer uruchamia się na http://localhost:3000
 
