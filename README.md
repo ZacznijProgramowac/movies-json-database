@@ -13,5 +13,4 @@ http://localhost:3000/categories
 http://localhost:3000/years
 
 # Korzystam z:
-https://my-json-server.typicode.com/
-
+https://github.com/typicode/json-server
